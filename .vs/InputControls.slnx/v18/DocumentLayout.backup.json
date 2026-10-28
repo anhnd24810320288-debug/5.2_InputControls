@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TT\\source\\repos\\InputControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|c:\\users\\tt\\source\\repos\\inputcontrols\\inputcontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|solutionrelative:inputcontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|c:\\users\\tt\\source\\repos\\inputcontrols\\inputcontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|solutionrelative:inputcontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|c:\\users\\tt\\source\\repos\\inputcontrols\\inputcontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|solutionrelative:inputcontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|c:\\users\\tt\\source\\repos\\inputcontrols\\inputcontrols\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261ADF3C-B04D-4016-8C87-91BF0F0B99C1}|InputControls\\InputControls.csproj|solutionrelative:inputcontrols\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Program.cs",
+              "RelativeDocumentMoniker": "InputControls\\Program.cs",
+              "ToolTip": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Program.cs",
+              "RelativeToolTip": "InputControls\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:06:10.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InputControls\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Form1.Designer.cs",
+              "RelativeToolTip": "InputControls\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:05:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Form1.cs",
+              "RelativeDocumentMoniker": "InputControls\\Form1.cs",
+              "ToolTip": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Form1.cs",
+              "RelativeToolTip": "InputControls\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:05:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Form1.cs",
+              "RelativeDocumentMoniker": "InputControls\\Form1.cs",
+              "ToolTip": "C:\\Users\\TT\\source\\repos\\InputControls\\InputControls\\Form1.cs [Design]",
+              "RelativeToolTip": "InputControls\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:05:08.68Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
