@@ -1,0 +1,15 @@
+
+USE ql_sinhvien;
+
+CREATE TABLE IF NOT EXISTS DangKyHocVien (
+    MaDangKy INT AUTO_INCREMENT PRIMARY KEY,
+    HoTen VARCHAR(100) NOT NULL,
+    SoDienThoai VARCHAR(20) NOT NULL,
+    NgaySinh DATE NOT NULL,
+    GioiTinh VARCHAR(10) NOT NULL,
+    MaKhoaHoc VARCHAR(20) NOT NULL,
+    TenKhoaHoc VARCHAR(100) NOT NULL,
+    SoThich VARCHAR(255)
+);
+
+SELECT * FROM DangKyHocVien;
